@@ -5,13 +5,15 @@
 
     "HELLO": "Hello! I'm a bot, but I can answer questions about Andrew for you or put you in touch with him. %[I have questions](postback:questions) %[Andrew's writing](postback:writing) %[Andrew's code](postback:coding) %[Tweet at Andrew](postback:tweet_at_andrew)",
 
+    "HEY": "Hello! I'm a bot, but I can answer questions about Andrew for you or put you in touch with him. %[I have questions](postback:questions) %[Andrew's writing](postback:writing) %[Andrew's code](postback:coding) %[Tweet at Andrew](postback:tweet_at_andrew)",
+
     "ARE YOU REAL": "I'm as real as you or Andrew! I just can't, well, articulate much on my own. Andrew helps with that from time to time, and I get by on my own otherwise.",
 
     "I HAVE QUESTIONS": "Great! I can answer most questions, but if I can't, you can always reach out to Andrew on Google+ or Twitter.\nHere are the questions I can answer right now: %[Where is Andrew?](postback:where_is_andrew) %[Where do you work?](postback:where_do_you_work)",
 
-    "WHERE IS ANDREW": "Andrew is currently living in Kansas City, MO. His next move is scheduled to Amsterdam (<3) on September 17, 2016.",
+    "WHERE IS ANDREW?": "Andrew is currently living in Kansas City, MO. His next move is scheduled to Amsterdam (<3) on September 17, 2016.",
 
-    "WHERE DO YOU WORK": "Andrew is currently a software developer at Shopventory, working remotely. He is founder of Indent Labs, LLC., and occasionally takes interesting freelance and consulting work on the side. %[Shopventory website](postback:shopventory_website) %[Indent Labs website](postback:indent_labs_website)",
+    "WHERE DO YOU WORK?": "Andrew is currently a software developer at Shopventory, working remotely. He is founder of Indent Labs, LLC., and occasionally takes interesting freelance and consulting work on the side. %[Shopventory website](postback:shopventory_website) %[Indent Labs website](postback:indent_labs_website)",
 
     "SHOPVENTORY WEBSITE": "http://www.shopventory.com",
 
@@ -19,15 +21,15 @@
 
     "ABOUT ANDREW": "Andrew's a pretty cool guy who doesn't afraid of anything.",
 
-    "ANDREW'S WRITING": "Andrew writes short stories, longer fiction, and poetry quite regularly. The majority of his short stories and poetry are available for free at his website, http://www.drusepth.net, and his first book The Church of Anonymous is available on Amazon.\nHis second book, Thing a Week 2010, is coming soon! %[Visit his website](postback:visit_website) %[Buy The Church of Anonymous](postback:buy_church_of_anonymous) %[Buy Thing a Week 2010](postback:buy_thing_a_week_2010)",
+    "ANDREW'S WRITING": "Andrew writes short stories, longer fiction, and poetry quite regularly.\nThe majority of his short stories and poetry are available for free at his website, http://www.drusepth.net, and his first book The Church of Anonymous is available on Amazon.\nHis second book, Thing a Week 2010, is coming soon! %[Visit his website](postback:visit_his_website) %[Church of Anonymous](postback:church_of_anonymous) %[Thing a Week 2010](postback:thing_a_week_2010)",
 
-    "VISIT WEBSITE": "http://www.drusepth.net",
+    "VISIT HIS WEBSITE": "http://www.drusepth.net",
 
-    "BUY CHURCH OF ANONYMOUS": "https://www.amazon.com/dp/B003X976C0/",
+    "CHURCH OF ANONYMOUS": "https://www.amazon.com/dp/B003X976C0/",
 
-    "BUY THING A WEEK 2010": "Thing a Week 2010 is coming soon! Ask again in late August for a link and you could be the first to get your hands on a copy!",
+    "THING A WEEK 2010": "Thing a Week 2010 is coming soon! Ask again in late August for a link and you could be the first to get your hands on a copy!",
 
-    "ANDREW'S CODING": "When he's not writing fiction, Andrew's almost always writing code (and bots like me!). He founded Indent Labs in 2016 to encapsulate his artificial intelligence and natural language processing applications, and has over a hundred open source repositories on GitHub. He also competes regularly in code golf and programming competitions. %[Check out Indent Labs](postback:check_out_indent_labs) %[Visit his GitHub](postback:visit_his_github) %[Challenge him!](postback:coding_challenge)",
+    "ANDREW'S CODE": "When he's not writing fiction, Andrew's almost always writing code (and bots like me!). He founded Indent Labs in 2016 to encapsulate his artificial intelligence and natural language processing applications, and has over a hundred open source repositories on GitHub. He also competes regularly in code golf and programming competitions. %[Check out Indent Labs](postback:check_out_indent_labs) %[Visit his GitHub](postback:visit_his_github) %[Challenge him!](postback:coding_challenge)",
 
     "CHECK OUT INDENT LABS": "http://www.indentlabs.com",
 
