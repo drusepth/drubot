@@ -1,9 +1,15 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Esther, a Product Marketer from San Francisco.\n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
-    "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
-    "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
-    "I LOVE YOU": "Awh, shucks! I love you too!",
-    "CONNECT ME": "",
-    "DISCONNECT": "Roger that, EstherBot is back."
+    "BOT": "Hi there!\nI'm the personal bot of Andrew, a Software Developer / Author from Joplin, MO.\n![dru](https://scontent-dft4-1.xx.fbcdn.net/v/t1.0-9/407914_278082585586507_1042538318_n.jpg?oh=2a12205adafc64ec10b6f3f5865b512a&oe=58120D34)\nWant to know more about bots or learn about Andrew? %[I'm talking to a bot?](postback:are_you_real) %[About Andrew](postback:about_andrew) %[Andrew's writing](postback:writing) %[Andrew's coding](postback:coding)",
 
+    "HELLO": "Hello! I'm a bot, but I can answer questions about Andrew for you or put you in touch with him. %[I have questions](postback:questions) %[Tweet at Andrew](postback:tweet_at_andrew)",
+
+    "QUESTIONS": "TK questions",
+
+    "ABOUT ANDREW": "TK About Andrew",
+
+    "WRITING": "TK writing",
+
+    "CODING": "TK coding",
+
+    "TWEET AT ANDREW": "TK tweet"
 }
